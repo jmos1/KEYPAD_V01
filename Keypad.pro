@@ -1,4 +1,4 @@
-update=6/15/2020 12:34:53 PM
+update=6/16/2020 11:24:22 AM
 version=1
 last_client=kicad
 [general]
@@ -239,7 +239,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=Outputs/
+PlotDirectoryName=C:/Users/jmorar567/Desktop/Kicad/KEYPAD_V01/Outputs/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
